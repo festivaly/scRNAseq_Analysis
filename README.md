@@ -443,7 +443,7 @@ curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mi
 bash Miniforge3-MacOSX-arm64.sh -b -p ~/miniforge3
 ```
 
-基本的にはオートになるコマンドではあるが、何か聞かれた場合はEnterで大丈夫であるが、conda init (またはmamba init) の許可を求められた場合はnoと答えることをお勧めする
+基本的にはオートで進むコマンドなので、何か聞かれた場合はEnterで善いが、conda init (またはmamba init) の許可を求められた場合はnoと答えることをお勧めする
 
 理由として最もクリーンに環境を構築できる方法だからである
 
