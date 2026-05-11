@@ -324,6 +324,14 @@ DEGの結果を用いて、EnrichされているPathwayを同定したり、Path
 
 /path/to/hogehogeとなっていたり、大文字=hogehogeとなっているものは適宜環境を書き換えることで、実行できる
 
+また、必ず実行前は共通して以下のコマンドでGithubをクローンしたディレクトリに移動すること
+
+GitHubのクローンの仕方は後述の前提知識セクションを参照
+
+```bash
+cd /path/to/Github_dir
+```
+
 3) 前処理
 ```bash
 INPUT_DATA=/path/to/adata.h5ad
