@@ -79,9 +79,7 @@ ${CellRanger}/cellranger count \
 
 ここまではシェルの処理のみだが、ここからはpythonまたはRによる解析に移ることとなる
 
-pythonの場合は、Scanpyが一般的である
-
-Rの場合はSeuratが、一般的である
+pythonの場合はScanpy、Rの場合はSeuratが一般的である
 
 **Scanpyの利点**
 
