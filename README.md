@@ -414,7 +414,7 @@ git --version
 
 次に、以下を実行するとパスを問われ、指定した場所に本レポジトリがクローンされ、コードが自由に使用できる
 ```bash
-git clone htpss
+git clone https://github.com/festivaly/scRNAseq_Analysis
 ```
 
 **環境構築ガイド**
