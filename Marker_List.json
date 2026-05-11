@@ -1,0 +1,32 @@
+{
+	"T_cells": [
+		"CD3D",
+		"CD3E",
+		"TRAC"
+	],
+	"B_cells": [
+		"MS4A1",
+		"CD79A",
+		"CD74"
+	],
+	"Myeloid": [
+		"LYZ",
+		"S100A8",
+		"S100A9"
+	],
+	"NK_cells": [
+		"NKG7",
+		"GNLY",
+		"KLRD1"
+	],
+	"Endothelial": [
+		"PECAM1",
+		"VWF",
+		"KDR"
+	],
+	"Fibroblast": [
+		"COL1A1",
+		"COL1A2",
+		"DCN"
+	]
+}
